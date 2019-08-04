@@ -1,0 +1,206 @@
+table {
+	width: 100%;
+	max-width: 1920px;
+	min-width: 1000px;
+	margin: 0 auto;	
+	/*height: 1440px;*/
+}
+
+.first-block {
+	height: 630px;	
+}
+
+.left {
+	width: 19.53%;
+}
+
+.container {
+	width: 60.93%;
+}
+
+.menu {
+	width: 16.14%;
+}
+
+.right {
+	width: 3.38%;
+}
+
+.menu nav {
+	margin-top: 65px;
+	float: right;		
+}
+
+.menu li:first-child {
+	margin-bottom: 38px;
+}
+.menu li:not(:first-child) {
+	margin: 0 6px 22px;
+}
+.menu li:first-child a {
+	font-size: 32px;
+	color: #000;	
+}
+.menu li:not(:first-child) a {
+	font-size: 20px;
+	color: #7f7f7f;		
+}
+
+
+
+.second-block {
+	height: 40px;
+	max-width: 1920px;
+}
+
+.Mark h1 {
+	font-size: 40px;
+	color: #000;
+	text-align: center;
+}
+
+.red {
+	color: #f00;
+}
+
+.third-block {
+	height: 176px;
+}
+.mark_text {
+	text-align: center;
+	font-size: 16px;
+	color: #666666;
+	vertical-align: middle;
+}
+
+.last-block {	
+	height: 594px;
+}
+.last-block td {
+	position: relative;
+}
+.last-block img {
+	width: 100%;
+	position: absolute;
+	bottom: 0;
+}
+
+
+
+
+.intro {
+	height: 382px;
+}
+.prev_right {
+	width: 16.14%;
+}
+
+.statua {
+	position: relative;
+	width: 29.6%;
+	max-width: 569px;
+}
+.statua img {
+	width: 100%;
+	position: absolute;
+	bottom: 0;
+}
+
+.bottomline {
+	border-bottom: 2px solid red;
+}
+
+.list h1 {
+	padding-left: 30px;
+	padding-top: 344px;
+	font-size: 32px;
+	font-weight: bold;
+}
+
+.listbox {
+	padding-left: 80px;
+}
+.listbox p {
+	padding-left: 50px;	
+	line-height: 28px;
+	color: #666666;	
+}
+.listbox li {	
+	margin-top: 52px;
+}
+.img_list {
+	height: 1058px;
+	font-size: 20px;
+}
+.float {	
+	float: left;
+	margin-top: 3px;
+}
+
+
+.third-section {
+	max-width: 1920px;	
+	background-color: #d63c37;	
+}
+.third-section td {	
+	vertical-align: top;
+}
+.third-section b {
+	font-weight: bold;
+}
+
+.icons {
+	width: 5.73%;
+	min-width: 70px;
+	text-align: center;		
+}
+.icons i {
+	width: 30%;
+	font-size: 26px;			
+	border: 3px solid #fff;
+	border-radius: 50%;
+	padding: 10px;
+	color: #fff;		
+}
+.third-section tr p {
+	text-align: right;	
+}
+
+.setting {
+	padding-top: 40px;
+}
+
+.discover {
+	height: 438px;
+}
+.blazing {
+	height: 280px;
+}
+.awesome {
+	height: 236px;
+}
+.use {
+	height: 182px;	
+}
+
+.text_name {
+	font-size: 22px;
+	color: #fff;
+}
+.lorem_name {
+	margin-top: 30px;
+	line-height: 36px;
+	font-size: 16px;
+	color: #000;
+}
+.discover h3 {
+	margin-top: 310px;
+	font-size: 32px;
+	font-weight: bold;
+}
+.black_line {
+	border-bottom: 2px solid #000;
+}
+.last_line {
+	height: 304px;
+}
